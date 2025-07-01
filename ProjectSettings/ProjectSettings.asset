@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: Pragati
   productName: Glitch
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -672,7 +672,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 08a26b14-5d1e-4fd5-ab35-feff0f2105ed
   framebufferDepthMemorylessMode: 0
